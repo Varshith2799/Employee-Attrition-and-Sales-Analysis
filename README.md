@@ -17,9 +17,9 @@ This project analyzes employee attrition trends and sales performance across dif
 - ★ Employees aged 30-40 tend to have higher performance ratings across all countries.
 
 ## How to Use
-1. Download the Excel file from the `data/` folder.
+1. Download the Excel file Employee Attrition and Sales Analysis.docx.
 2. Open in Excel to view pivot tables and charts.
-3. Refer to the `reports/` folder for a summary of key insights.
+3. Refer to the Employee Attrition and Sales Analysis Report.docx for a summary of key insights.
 
 ## Technologies Used
 - Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
